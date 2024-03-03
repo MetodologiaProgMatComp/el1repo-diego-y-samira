@@ -1,11 +1,10 @@
-package AssignmentS04;
 
 public class Ball {
     int radio;
-    float vx;
-    float vy;
-    float x;
-    float y;
+    float vx;  //velocidad en x
+    float vy;  //velocidad en x
+    float x;   //posición horizontal bola
+    float y;   //posición vertical bola
 
     public Ball() {
         this.radio = 3;
@@ -76,6 +75,5 @@ public class Ball {
 
 
 
-//###
-// #
+
 }

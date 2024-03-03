@@ -1,5 +1,3 @@
-package AssignmentS04;
-
 public class Employee {
     private int id;
     private String firstName;
@@ -37,13 +35,14 @@ public class Employee {
         this.salary = salary;
     }
     public int raiseSalary(int percent){
-        int a = getSalary()+percent*getSalary()/100;
+        int a = getSalary()+(percent*getSalary()/100);
+        //int a=(percent*getSalary())/100;
         setSalary(a);
         return a;
     }
 
     @Override
     public String toString() {
-        return super.toString();
+        return "[Employee[id= "+id+", name= "+firstName+", "+lastName+", salary= "+salary+"]";
     }
 }
