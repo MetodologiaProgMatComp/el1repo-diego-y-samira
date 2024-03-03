@@ -4,6 +4,9 @@ public class ResizableCircle extends Circle implements Resizable{
     public ResizableCircle(double radius){
         super(radius);
     }
+    public double getRadius(){
+        return radius;
+    }
     public String toString(){
         return "ResizableCircle[Circle[radius= "+radius+"]";
     }
