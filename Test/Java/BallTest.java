@@ -51,6 +51,7 @@ public class BallTest {
     }
     @Test
     public void testMove() {
+        Ball ball=new Ball(4,1,1,3,3);
         ball.move();
 
         assertEquals(4,ball.getY());
