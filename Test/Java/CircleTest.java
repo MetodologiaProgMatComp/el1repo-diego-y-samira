@@ -16,7 +16,8 @@ Circle circle=new Circle(2,"Amarillo");
 
     @Test
     public void testTestToString() {
-        assertEquals("Circle[radius= "+ 2 +" ,color="+ "Amarillo", circle.toString());
+        Circle circle=new Circle(2,"Amarillo");
+        assertEquals("Circle[radius=2.0 , color=Amarillo]", circle.toString());
     }
 
     @Test
