@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb4a6eb4-86db-4a2b-9289-92f8a5a939d8" name="Changes" comment="Clase circle" />
+    <list default="true" id="bb4a6eb4-86db-4a2b-9289-92f8a5a939d8" name="Changes" comment="Clase circle">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_4/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_4/Invoice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_5/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_5/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_6/MyLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_6/MyPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_1/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_2/GeometricObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_3/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_3/MovablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_4/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_4/MovableCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_4/MovablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_5/GeometricObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_5/Resizable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_6/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_6/Cat.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,40 +44,70 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;diego935&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5bfc0888-eb2a-4365-a1be-86a63114b5df" />
+        <option name="url" value="https://github.com/MetodologiaProgMatComp/el1repo-diego-y-samira.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2c1y5Guqgs5NP9m9ZcRnuBI8son" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Diego/IdeaProjects/el1repo-diego-y-samira",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Diego/IdeaProjects/el1repo-diego-y-samira&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Diego\IdeaProjects\el1repo-diego-y-samira" />
       <recent name="C:\Users\Diego\IdeaProjects\el1repo-diego-y-samira\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="el1repo-diego-y-samira" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="el1repo-diego-y-samira" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -70,6 +125,15 @@
       <option name="presentableId" value="Default" />
       <updated>1707293194648</updated>
       <workItem from="1707293195726" duration="1140000" />
+      <workItem from="1707463382346" duration="1041000" />
+      <workItem from="1707911856104" duration="7000" />
+      <workItem from="1708672722177" duration="5000" />
+      <workItem from="1708672745407" duration="4000" />
+      <workItem from="1709107954222" duration="820000" />
+      <workItem from="1709280241392" duration="447000" />
+      <workItem from="1709280702360" duration="1433000" />
+      <workItem from="1709298620155" duration="117000" />
+      <workItem from="1709649467808" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -95,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707294275897</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Clase circle">
+      <option name="closed" value="true" />
+      <created>1707463406384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707463406384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
