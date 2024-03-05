@@ -1,4 +1,4 @@
-package Agrupaciones.Libros;
+package Ejercicio2_2;
 
 public class Book {
     private String name;

@@ -1,5 +1,3 @@
-package Practica_1;
-
 public class Time {
     private int hour;
     private int minute;
@@ -35,7 +33,7 @@ public class Time {
     }
     public void setTime(int hour,int minute, int second){
         this.hour=hour;
-        this.minute=hour;
+        this.minute=minute;
         this.second=second;
     }
     public String toString(){
@@ -62,17 +60,16 @@ public class Time {
     }
     public Time nextSecond(){
         second ++;
-        if (second>=60){
+        if (second>=59);
             second=0;
             minute++;
-            if (minute>=60){
+            if (minute>=59){
                 minute=0;
                 hour++;
                 if (hour >=24){
                     hour=0;
                 }
             }
-        }
         return this;
     }
     public Time previousSecond() {

@@ -1,5 +1,3 @@
-package Practica_1;
-
 public class Account {
     private String id;
     private String name;
@@ -41,7 +39,7 @@ public class Account {
         }
         return balance;
     }
-    public void transferTo(Account other, int amount){
+    public void transferTo(Account other, double amount){
     if(amount>0 && amount <=balance){
         debit(amount);
         other.credit(amount);

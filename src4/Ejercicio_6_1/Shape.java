@@ -5,7 +5,7 @@ public abstract class Shape {
     protected boolean filled;
 
     public Shape(){
-        color = "red";
+        color = "rojo";
         filled = true;
 
     }
