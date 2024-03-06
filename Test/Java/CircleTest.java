@@ -1,9 +1,10 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class CircleTest {
-Circle circle=new Circle(2,"Amarillo");
+    Circle circle=new Circle(2,"Amarillo");
+    Circle circle2 =new Circle();
     @Test
     public void testGetRadio() {
         assertEquals(2,circle.getRadio());

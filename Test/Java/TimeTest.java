@@ -1,6 +1,6 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class TimeTest {
     Time time=new Time(6,30,23);

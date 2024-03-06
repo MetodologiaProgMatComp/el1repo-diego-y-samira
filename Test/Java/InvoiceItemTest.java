@@ -1,8 +1,8 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Optional;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class InvoiceItemTest {
     InvoiceItem invoiceItem= new InvoiceItem("210-c","Camisetas",50,14.99);

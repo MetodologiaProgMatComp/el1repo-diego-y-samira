@@ -1,6 +1,6 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class DateTest {
     Date date=new Date(2,3,2024);

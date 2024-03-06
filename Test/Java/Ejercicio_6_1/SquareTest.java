@@ -1,10 +1,11 @@
 package Ejercicio_6_1;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class SquareTest {
+    Ejercicio_6_1.Square s = new Ejercicio_6_1.Square();
     Square square= new Square(3.0);
     @Test
     public void testSetSide() {
@@ -19,7 +20,7 @@ public class SquareTest {
     }
 
     @Test
-    public void testTestToString() {
+    public void testToString() {
         Square square=new Square(5.0,"Azul",true);
         String esperado="Cuadrado[side= 5.0, color= Azul, filled= True]";
     }

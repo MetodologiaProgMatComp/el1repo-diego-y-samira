@@ -1,9 +1,10 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class BallTest {
     Ball ball=new Ball(4,1,1,3,3);
+    Ball bola = new Ball();
     @Test
     public void testGetVx() {
         assertEquals(1,ball.getVx());

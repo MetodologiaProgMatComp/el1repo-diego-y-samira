@@ -1,8 +1,8 @@
 package Ejercicio_6_5;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class ResizableCircleTest {
     ResizableCircle resizableCircle=new ResizableCircle(3.0);

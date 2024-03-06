@@ -1,9 +1,10 @@
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 public class AccountTest {
     Account account=new Account("999szg","Sara Gonzalez", 100);
+    Account account2=new Account("999szg","Sara Gonzalez");
 
     @Test
     public void testGetId() {
@@ -41,6 +42,7 @@ public class AccountTest {
     public void testTransferTo() {
         Account otherAccount=new Account("111abz","José García",75);
         otherAccount.transferTo(account,20);
+        otherAccount.transferTo(account,-20);
         //assertEquals(80,account.getBalance());
         assertEquals(55,otherAccount.getBalance());
     }
