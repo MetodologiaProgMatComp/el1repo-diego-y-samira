@@ -4,31 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb4a6eb4-86db-4a2b-9289-92f8a5a939d8" name="Changes" comment="Clase circle">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="bb4a6eb4-86db-4a2b-9289-92f8a5a939d8" name="Changes" comment="Corrección ball">
+      <change beforePath="$PROJECT_DIR$/.idea/el1repo-diego-y-samira.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/el1repo-diego-y-samira.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_4/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_4/Invoice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_5/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_5/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_6/MyLine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src2/Ejercicio2_6/MyPoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_1/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_1/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_1/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_2/GeometricObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_2/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_3/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_3/MovablePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_4/Movable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_4/MovableCircle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_4/MovablePoint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_5/GeometricObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_5/Resizable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_6/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src4/Ejercicio_6_6/Cat.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,21 +71,6 @@
       <recent name="C:\Users\Diego\IdeaProjects\el1repo-diego-y-samira" />
       <recent name="C:\Users\Diego\IdeaProjects\el1repo-diego-y-samira\src" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="el1repo-diego-y-samira" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="el1repo-diego-y-samira" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -187,6 +150,81 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="Clase circle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clase circle" />
+    <MESSAGE value="Corrección ball" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección ball" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$ResizableCircleTest_testgetRadius.ic" NAME="ResizableCircleTest.testgetRadius Coverage Results" MODIFIED="1709501474986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$AccountTest_testCredit.ic" NAME="AccountTest.testCredit Coverage Results" MODIFIED="1709387293618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$ResizableCircleTest_testResize.ic" NAME="ResizableCircleTest.testResize Coverage Results" MODIFIED="1709501580811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$TimeTest.ic" NAME="TimeTest Coverage Results" MODIFIED="1709579004243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1709579072523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1709467077570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$GeometricObjectTest_testGetPerimeter.ic" NAME="GeometricObjectTest.testGetPerimeter Coverage Results" MODIFIED="1709480561480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$BallTest.ic" NAME="BallTest Coverage Results" MODIFIED="1709578698949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$CircleTest_testTestToString.ic" NAME="CircleTest.testTestToString Coverage Results" MODIFIED="1709544978685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$TimeTest_testNextSecond.ic" NAME="TimeTest.testNextSecond Coverage Results" MODIFIED="1709464758875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$AccountTest_testTransferTo.ic" NAME="AccountTest.testTransferTo Coverage Results" MODIFIED="1709387716913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DogTest_testTestGreets.ic" NAME="DogTest.testTestGreets Coverage Results" MODIFIED="1709502735272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$InvoiceItemTest.ic" NAME="InvoiceItemTest Coverage Results" MODIFIED="1709579053853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$BallTest_testGetVy.ic" NAME="BallTest.testGetVy Coverage Results" MODIFIED="1709405039012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$BallTest_testVflip.ic" NAME="BallTest.testVflip Coverage Results" MODIFIED="1709407072109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$CircleTest__1_.ic" NAME="CircleTest (1) Coverage Results" MODIFIED="1709491057259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$CircleTest_testGetArea.ic" NAME="CircleTest.testGetArea Coverage Results" MODIFIED="1709482795702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DateTest.ic" NAME="DateTest Coverage Results" MODIFIED="1709578796553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DateTest_testTestToString.ic" NAME="DateTest.testTestToString Coverage Results" MODIFIED="1709452537140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$ResizableCircleTest.ic" NAME="ResizableCircleTest Coverage Results" MODIFIED="1709501787893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1709578718362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$_default_.ic" NAME="&lt;default&gt; Coverage Results" MODIFIED="1709710839907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$TimeTest_testTestToString.ic" NAME="TimeTest.testTestToString Coverage Results" MODIFIED="1709465542980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DogTest_testGreets.ic" NAME="DogTest.testGreets Coverage Results" MODIFIED="1709502489668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$CatTest.ic" NAME="CatTest Coverage Results" MODIFIED="1709502191012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$SquareTest_testTestToString.ic" NAME="SquareTest.testTestToString Coverage Results" MODIFIED="1709479649527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DateTest_testSetDay.ic" NAME="DateTest.testSetDay Coverage Results" MODIFIED="1709455379492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DateTest_testSetDate.ic" NAME="DateTest.testSetDate Coverage Results" MODIFIED="1709452513867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$DogTest.ic" NAME="DogTest Coverage Results" MODIFIED="1709502745265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$BigDogTest.ic" NAME="BigDogTest Coverage Results" MODIFIED="1709503157187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$InvoiceItemTest_testGetTotal.ic" NAME="InvoiceItemTest.testGetTotal Coverage Results" MODIFIED="1709461647920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$BallTest_testMove.ic" NAME="BallTest.testMove Coverage Results" MODIFIED="1709407058136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$TimeTest_testSetTime.ic" NAME="TimeTest.testSetTime Coverage Results" MODIFIED="1709465529902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$GeometricObjectTest.ic" NAME="GeometricObjectTest Coverage Results" MODIFIED="1709480576012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$SquareTest.ic" NAME="SquareTest Coverage Results" MODIFIED="1709479658925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$CircleTest.ic" NAME="CircleTest Coverage Results" MODIFIED="1709578749323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$BallTest_testSetRadio.ic" NAME="BallTest.testSetRadio Coverage Results" MODIFIED="1709406076941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$EmployeeTest_testRaiseSalary.ic" NAME="EmployeeTest.testRaiseSalary Coverage Results" MODIFIED="1709460897720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$ResizableCircleTest_testTestToString.ic" NAME="ResizableCircleTest.testTestToString Coverage Results" MODIFIED="1709501491681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio_6_5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/el1repo_diego_y_samira$InvoiceItemTest_testTestToString.ic" NAME="InvoiceItemTest.testTestToString Coverage Results" MODIFIED="1709462283258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
