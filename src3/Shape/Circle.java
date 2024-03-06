@@ -1,6 +1,6 @@
-package Ejercicio_6_1;
+package EjerciciosHerencias.Shape;
 
-public class Circle extends Shape{
+public class Circle extends Shape {
     protected double radio;
 
     public Circle(){
@@ -11,7 +11,10 @@ public class Circle extends Shape{
     public Circle(double radio, String color, boolean filled){
         super(color, filled);
         this.radio =radio;
-
+    }
+    public Circle(double radio){
+        super();
+        this.radio =radio;
     }
 
     public double getRadio() {
@@ -34,4 +37,3 @@ public class Circle extends Shape{
     }
 
 }
-

@@ -1,4 +1,4 @@
-package Ejercicio_6_1;
+package EjerciciosHerencias.Shape;
 
 public class Rectangle extends Shape {
     protected double width;
